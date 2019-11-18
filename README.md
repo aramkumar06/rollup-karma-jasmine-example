@@ -27,3 +27,5 @@
   ```
   $ npm run build
   ```
+  
+  https://salsa.debian.org/js-team/node-rollup-plugin-babel/tree/master
